@@ -5,6 +5,9 @@ const nextConfig = {
       {
         hostname: "images.ui8.net",
       },
+      {
+        hostname: "ui8.net",
+      },
     ],
   },
 };

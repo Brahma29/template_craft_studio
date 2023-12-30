@@ -6,8 +6,8 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 export default function Home() {
   return (
     <main className="max-w-[1440px] mx-auto p-6">
-      <div className="text-center py-28">
-        <h1 className="text-4xl max-w-[750px] font-medium text-center mx-auto mb-4">
+      <div className="py-20 text-center">
+        <h1 className="text-5xl max-w-[800px] font-medium text-center mx-auto mb-4">
           8,208 curated design resources to speed up your creative workflow.
         </h1>
         <p className="text-lg opacity-70">
